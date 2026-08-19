@@ -130,6 +130,7 @@
     $('#diastolicbp').html(p.diastolicbp);
     $('#ldl').html(p.ldl);
     $('#hdl').html(p.hdl);
+    $('#bodytemperature').html(p.bodytemperature);
   };
 
 })(window);
